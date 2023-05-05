@@ -1,3 +1,5 @@
 print("hello world")
 print("hello anil")
+print("hello avi")
+print("kitty")
 print("hello doctor")
